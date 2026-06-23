@@ -82,8 +82,8 @@
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/maheshkumarsahu
-- LinkedIn: Add Your LinkedIn URL
-- Email: your-email@example.com
+- LinkedIn: 
+- Email: sahumahes269@gmail.com
 
 ---
 
